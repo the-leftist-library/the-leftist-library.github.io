@@ -1,2 +1,2 @@
-# the-leftist-library.github.io
+# The Leftist Library
 The Leftist Library's website version
